@@ -63,4 +63,4 @@ A .pth file has been uploaded at https://drive.google.com/open?id=1AT-x3HCVWAuZN
 https://github.com/layumi/Person_reID_baseline_pytorch
 
 # Visualize the results
-![Retrival images for 3 queries](./Visualization_Result)
+![Retrival images for 3 queries](./Visualization_Result.PNG)
